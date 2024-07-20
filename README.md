@@ -14,7 +14,7 @@ You can install these packages by running the following command in your terminal
    pip install pandas numpy matplotlib seaborn sklearn                                                     
    
 # Usage
-Clone or download this repository to your local machine.                          
+Clone or download this repository to your local machine                        
 Open the Jupyter notebook file Titanic_Classification.ipynb in your Jupyter notebook application.                             
 Run the cells to train the machine learning model and make predictions on the test data.                                         
 The last cell will output the accuracy score of the model on the test data, as well as a confusion matrix and classification report.                       
